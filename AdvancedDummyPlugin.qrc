@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/CC/plugin/AdvancedDummyPlugin">
+        <file>icon.png</file>
+    </qresource>
+</RCC>
